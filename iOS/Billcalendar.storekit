@@ -1,0 +1,34 @@
+{
+  "identifier": "...",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "1001",
+      "localizations": [
+        {
+          "description": "Recurring auto-repeat bills and paid/unpaid history export",
+          "displayName": "Billcalendar Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "billcalendar.pro",
+      "referenceName": "Billcalendar Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_applicationInternalID": "0",
+    "_developerTeamID": "W7Q885Q59C",
+    "_failTransactionsEnabled": false,
+    "_locale": "en_US",
+    "_storefront": "USA",
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
